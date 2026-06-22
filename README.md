@@ -6,9 +6,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ishita-surana/leetcode/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/ishita-surana/leetcode/tree/master/0414-third-maximum-number) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ishita-surana/leetcode/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/ishita-surana/leetcode/tree/master/0414-third-maximum-number) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ishita-surana/leetcode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ishita-surana/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ishita-surana/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
